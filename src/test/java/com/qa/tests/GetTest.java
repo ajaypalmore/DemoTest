@@ -131,5 +131,12 @@ public class GetTest extends TestBase{
 		System.out.println("Respone Json Header from API ----->"+allheader);
 		
 	}
+
+	@Test
+	public void GetTestWithHeader1() throws ClientProtocolException, IOException
+	{
+		System.out.println("Demo Test");
+	}
+	
 	
 }
