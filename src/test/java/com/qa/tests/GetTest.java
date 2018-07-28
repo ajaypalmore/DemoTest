@@ -132,11 +132,6 @@ public class GetTest extends TestBase{
 		
 	}
 
-	@Test
-	public void GetTestWithHeader1() throws ClientProtocolException, IOException
-	{
-		System.out.println("Demo Test");
-	}
 	
 	
 }
